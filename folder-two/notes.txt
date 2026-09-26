@@ -1,1 +1,2 @@
 This is file two
+Learning the git right way
